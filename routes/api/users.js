@@ -58,7 +58,9 @@ router.post("/register", (req, res) => {
       });
     }
   });
+  2;
 });
+2;
 
 // @route   GET api/users/login
 // @desc    Login user / Returning Token
